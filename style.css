@@ -47,7 +47,7 @@ h1 {
 
 /* For devices 400px and larger: */
 @media only screen and (min-device-width: 400px) {
-  body {
+  #landing {
     width: 100%;
     background-image: url('./image/saladb.jpg');
   }
