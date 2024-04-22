@@ -73,7 +73,7 @@ header nav {
   height: 100%;
 }
 
-header nav ul {
+/* header nav ul {
   list-style: none;
 
   display: flex;
@@ -88,6 +88,32 @@ header nav ul {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
   margin-top: 30%;
+} */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.logo{
+    margin-left: 1em;
+}
+
+ul{
+    margin-right: 1em;
 }
 
 a {
