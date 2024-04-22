@@ -73,7 +73,7 @@ header nav {
   height: 100%;
 }
 
-/* header nav ul {
+header nav ul {
   list-style: none;
 
   display: flex;
@@ -88,9 +88,9 @@ header nav {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
   margin-top: 30%;
-} */
+}
 
-header nav ul{
+/* header nav ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -98,7 +98,7 @@ flex-direction: row;
     gap: 2em;
 list-style: none;
 text-decoration: none;
-};
+}; */
 
 /*  nav ul{
     display: flex;
@@ -110,20 +110,14 @@ text-decoration: none;
 li{
     text-decoration: none;
     list-style: none;
-color: black;
+
 }
 
 .logo{
     margin-left: 1em;
 }
 
-ul{
-    margin-right: 1em;
-}
 
-li a{
-color: black;
-}
 
 a {
   text-decoration: none;
