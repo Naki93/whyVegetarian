@@ -90,18 +90,20 @@ header nav {
   margin-top: 30%;
 } */
 
-header{
+header nav ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
+flex-direction: row;
+    gap: 2em;
 };
 
- nav ul{
+/*  nav ul{
     display: flex;
     flex-direction: row;
     gap: 2em;
     
-}
+} */
 
 li{
     text-decoration: none;
