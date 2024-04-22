@@ -65,7 +65,7 @@ h1 {
 }
 
 header nav {
- 
+ padding-top: 3px;
   background-size: cover;
   padding-bottom: 3px;
   color: black;
