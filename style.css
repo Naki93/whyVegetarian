@@ -97,6 +97,7 @@ header nav ul{
 flex-direction: row;
     gap: 2em;
 list-style: none;
+text-decoration: none;
 };
 
 /*  nav ul{
