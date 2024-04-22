@@ -94,9 +94,9 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
+};
 
-.navbar ul{
+ nav ul{
     display: flex;
     flex-direction: row;
     gap: 2em;
