@@ -45,6 +45,14 @@ h1 {
   justify-content: center;
 }
 
+/* For devices 400px and larger: */
+@media only screen and (min-device-width: 400px) {
+  body {
+    width: 100%;
+    background-image: url('./image/saladb.jpg');
+  }
+}
+
 .btn {
   display: inline;
   font-size: 15px;
