@@ -64,7 +64,7 @@ h1 {
   border-radius: 30px;
 }
 
-header nav {
+/* header nav {
  background-color: black;
   background-size: cover;
   padding-bottom: 3px;
@@ -80,7 +80,20 @@ header nav ul {
 
   justify-content: space-around;
 }
+ */
 
+.navbar {
+      background-color: #343a40; /* Dark background */
+    }
+    .navbar-nav {
+      margin-left: 0; /* Align to the left */
+    }
+    .nav-link {
+      color: #fff; /* White text color */
+    }
+    .nav-link:hover {
+      color: #ddd; /* Lighter color on hover */
+    }
 .list {
   display: flex;
   font-size: large;
