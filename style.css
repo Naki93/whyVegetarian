@@ -90,8 +90,12 @@ margin-left: 5rem;
 margin-right: 5rem;
 font-weight: bold;
 font-family: "Lucida Console", "Courier New", monospace;
-color: #00FF00;
 
+
+}
+
+.navbar-dark .navbar-brand{
+color: #00FF00;
 }
 
 .head header{
