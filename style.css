@@ -33,6 +33,14 @@ h1 {
   color: black;
 }
 
+ @media (max-width: 991.98px) {
+    .navbar-custom .collapse {
+      position: absolute;
+      top: 40px;
+      right: 0;
+    }
+  }
+
 #landing {
   background-image: url("./image/saladb.jpg");
   background-size: cover;
