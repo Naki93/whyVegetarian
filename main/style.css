@@ -6,19 +6,19 @@
   }
   */
 
-@media (max-width: 767.98px) {
+@media (max-width: 767.98rem) {
       .card {
         width: 100%;
-        margin-bottom: 20px;
+        
       }
       .card-body {
         padding: 10px;
       }
     }
-    @media (min-width: 768px) and (max-width: 991.98px) {
+    @media (min-width: 768rem) and (max-width: 991.98rem) {
       .card {
         width: 100%;
-        margin-bottom: 20px;
+       
       }
       .card-body {
         padding: 15px;
