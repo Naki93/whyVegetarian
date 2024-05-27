@@ -89,7 +89,8 @@ margin-left: 5rem;
 .navbar-brand{
 margin-right: 5rem;
 font-weight: bold;
-font-color:#F6D4D6;
+font-family: "Lucida Console", "Courier New", monospace;
+font-color:#F7879A;
 
 }
 
