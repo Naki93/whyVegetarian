@@ -15,7 +15,9 @@
     background-color: lightcoral;
   }
 
-  
+  .card{
+height: 100%;
+}
 
   a:hover{
     color: black;
