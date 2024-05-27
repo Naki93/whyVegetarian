@@ -82,6 +82,10 @@ header nav ul {
 }
  */
 
+.navbar-brand{
+margin-right: 5rem;
+}
+
 .head header{
 display:flex;
 justify-content: space-between;
