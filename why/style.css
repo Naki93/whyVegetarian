@@ -12,9 +12,10 @@ img {
 }
 
 body{
-background-image: url("pexel.jpg")
+background-image: url("./pexel.jpg")
 background-size: cover;
 background-repeat: no-repeat;
+background-position: center;
 }
 
 .custom-color-1 {
