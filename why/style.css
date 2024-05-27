@@ -11,6 +11,12 @@ img {
   max-width: 100%;
 }
 
+.why{
+background-image: url("pexel.jpg")
+background-size: cover;
+background-repeat: no-repeat;
+}
+
 .custom-color-1 {
     
     color: #FF69B4; /* Pink text */
