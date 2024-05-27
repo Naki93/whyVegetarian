@@ -82,6 +82,11 @@ header nav ul {
 }
  */
 
+.head header{
+display:flex;
+justify-content: space-between;
+}
+
  .navbar-custom {
       background-color: #343a40; /* Dark background */
     }
