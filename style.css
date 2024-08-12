@@ -10,6 +10,7 @@ html {
 body {
   margin: 0;
   line-height: 1.6;
+height: 100vh;
 }
 h1 {
   color: white;
