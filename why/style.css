@@ -11,6 +11,27 @@ img {
   max-width: 100%;
 }
 
+.nav-link{
+margin-left: 3rem;
+}
+
+.navbar-brand{
+margin-right: 5rem;
+font-weight: bold;
+font-family: 'Space Grotesk';
+
+
+}
+
+.navbar-dark .navbar-brand{
+color: #F08080;
+}
+
+.head header{
+display:flex;
+justify-content: space-between;
+}
+
 .navbar-custom {
       background-color: #343a40; /* Dark background */
     }
